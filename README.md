@@ -7,5 +7,5 @@ To be an expert in Python it is essential to know anout numbers in detail as it 
 Second question clears that how to concatenate two string.It can be done by 4 ways:-
 1. By + operator
 2.By join method
-3. By fomat method
+3.By fomat method
 4.By % operator.
