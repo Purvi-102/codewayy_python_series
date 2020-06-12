@@ -1,0 +1,21 @@
+Q1. Why is list used?
+Ans1: List is quite like array that is used to store multiple data … 
+ But unlike array list is dynamic , mutable and can store multiple data type like (string,tuple,int) in a single list , 
+using nested list formation … Working with list is way more simple and efficient when compared to arrays in c .
+A list, in Python, is mutable. 
+Meaning you can change its value in memory without changing its address. 
+One of the reasons why lists are useful is that you can directly append an element in a list, also that lists in Python don’t need to have a rigid data type. 
+This means that you can have a string as well as an int in a list at the same time.
+Q2. How do Lists and sets differ?
+Ans2: Lists and sets are different as Lists are ordered while sets are not ordered.
+b. List allow duplicate entries while sets doesn't allow duplicate entries.
+c. List are indexed while sets are not.
+d.[] brackets are used for list while {} are used for sets. 
+e.We cannot access items from set but we can easily access items from list
+Q3. Application of dictionary with real world examples?
+Ans3: With the help of dictionary 
+.we can access elements
+.we can add elements.
+.we can remove the elemets using pop()method, popitem()method,clear() method.
+.Access elements of a nested dictionary.
+.Using dict constructor.
