@@ -9,3 +9,6 @@ Second question clears that how to concatenate two string.It can be done by 4 wa
 2.By join method
 3.By fomat method
 4.By % operator.
+Day 2 task
+First Question explain about dictionary, list, sets, tuple and their methods.
+and second question answer some usful questions related to list,dictionary,sets.
